@@ -9,12 +9,11 @@ h2 {
     text-align: center;
 }
 img {
-    height: 75%;
-    width: 400px;
+ 
     align-items: center;
     border-radius: 50px;
 }
-a {
+a{
    font-size: x-large;
    text-decoration-line: none;
    background-color: blue;
@@ -37,8 +36,8 @@ button {
 }
 
 a:hover {
-    background-color: blue;
-    color:yellow;
+    background-color: yellow;
+    color:blue;
  
  
 }
