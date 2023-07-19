@@ -1,0 +1,44 @@
+body {
+    
+    background-image:url(./Gif/bg\ 32.gif);
+  background-size: cover;
+  
+}
+h2 {
+    background-color: red;
+    text-align: center;
+}
+img {
+    height: 75%;
+    width: 400px;
+    align-items: center;
+    border-radius: 50px;
+}
+a {
+   font-size: x-large;
+   text-decoration-line: none;
+   background-color: blue;
+   border-radius: 50px;
+   color: rgb(249, 250, 252);
+float: left;
+width: 200px;
+text-align: center;
+  
+}
+
+
+p {
+    text-align: center;
+    font-style: italic;
+}
+button {
+    color: black;
+    font-style: oblique;
+}
+
+a:hover {
+    background-color: blue;
+    color:yellow;
+ 
+ 
+}
