@@ -1,0 +1,225 @@
+body{
+    background-image: url(./pngtree-blue-optoelectronics-background-backgroundtechnical-materialtechnology-backgroundarrowbackground-image_72733.jpg);
+    background-size: cover;
+            background-repeat: no-repeat;
+            padding-left: 22px;
+}
+.one,
+.two {
+    border: 3px solid;
+    background-color: yellowgreen;
+    width: 60%;
+    height: 80px;
+    margin-top: 3px;
+    margin: auto;
+    margin-bottom: 3px;
+
+}
+
+div.three {
+    border: 3px solid;
+    background-color: yellowgreen;
+    width: 14.7%;
+    float: left;
+    height: 280px;
+    margin-top: 2px;
+    margin-left: 20%;
+    margin-bottom: 1px;
+    inset-block: ;
+}
+
+div.four {
+    border: 3px solid;
+    background-color: yellowgreen;
+    width: 29%;
+    float: left;
+    height: 280px;
+    margin-top: 2px;
+    margin-left: 2px;
+    margin-bottom: 1px;
+    
+}
+
+div.five {
+    border: 3px solid;
+    background-color: yellowgreen;
+    width: 14.7%;
+    float: left;
+    height: 280px;
+    margin-top: 2px;
+    margin-left: 2px;
+    margin-bottom: 1px;
+}
+
+.six {
+    border: 3px solid;
+    background-color: yellowgreen;
+    width: 60%;
+    height: 80px;
+    margin-top: 295px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 1px;
+}
+
+hr {
+    border: 2px double rgba(248, 12, 228, 0.76);
+
+}
+
+div {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+    margin: auto;
+
+}
+
+
+
+.box2 {
+    border: 2px solid;
+    height: 620px;
+    width: 60%;
+    margin: 5px;
+    padding: 3px;
+    background-color: yellow;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+
+
+}
+
+.a,
+.b {
+    border: 3px solid;
+    background-color: rgba(241, 10, 118, 0.808);
+    width: 80%;
+    height: 80px;
+    margin-top: 5px;
+    margin: auto;
+    margin-bottom: 5px;
+}
+
+.c {
+    border: 3px solid;
+    background-color: rgba(6, 206, 56, 0.87);
+    width: 25%;
+    height: 280px;
+    margin-top: 2px;
+    float: left;
+    margin-left: 10%;
+
+}
+
+.d {
+    border: 3px solid;
+    background-color: rgba(6, 206, 56, 0.87);
+    width: 53.5%;
+    height: 280px;
+    margin-top: 2px;
+    float: left;
+    margin-left: 5px;
+}
+
+.e {
+    border: 3px solid;
+    background-color: rgba(241, 10, 118, 0.808);
+    width: 80%;
+    height: 80px;
+    margin-top: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 5px;
+}
+
+
+.box3 {
+    border: 2px solid;
+    height: 600px;
+    width: 60%;
+    margin: 5px;
+    padding: 3px;
+    background-color: rgba(252, 195, 130, 0.781);
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+
+.alif {
+    border: 2px solid;
+    margin-top: 3px;
+    width: 80%;
+    height: 20px;
+
+}
+
+.baa {
+    border: 2px solid;
+    background-color: rgba(247, 132, 241, 0.562);
+    width: 22%;
+    height: 70px;
+    margin-top: 30px;
+    float: left;
+    margin-left: 12%;
+}
+
+.taa {
+    border: 2px solid;
+    background-color: rgba(55, 247, 30, 0.788);
+    width: 50%;
+    height: 70px;
+    margin-top: 30px;
+    float: left;
+    margin-left: 30px
+}
+
+.saa {
+    border: 2px solid;
+    background-color: rgba(247, 132, 241, 0.562);
+    width: 22%;
+    height: 70px;
+    margin-top: 30px;
+    float: left;
+    margin-left: 12%;
+}
+
+.jeem {
+    border: 2px solid;
+    background-color: rgba(55, 247, 30, 0.788);
+    width: 50%;
+    height: 70px;
+    margin-top: 30px;
+    float: left;
+    margin-left: 30px
+}
+
+.haa {
+    border: 2px solid;
+    background-color: rgba(247, 132, 241, 0.562);
+    width: 22%;
+    height: 70px;
+    margin-top: 30px;
+    float: left;
+    margin-left: 12%;
+}
+
+.kha {
+    border: 2px solid;
+    background-color: rgba(55, 247, 30, 0.788);
+    width: 50%;
+    height: 70px;
+    margin-top: 30px;
+    float: left;
+    margin-left: 30px
+}
+
+.daal {
+    border: 2px solid;
+    margin-top: 350px;
+    width: 80%;
+    height: 20px;
+
+}
+
+p {
+    text-transform: capitalize;
+    font-style: oblique;
+}
